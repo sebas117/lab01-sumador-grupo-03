@@ -3,7 +3,7 @@ laboratorio 01 introducción a HDL
 
 En esta plantilla debe adicionar la documentación del laboratorio
 
-* Nombres y Apellidos Estudiante 1
+* Person 3
 * Nikolai Alexander Caceres Penagos
 * Esteban Ladino Fajardo
 
