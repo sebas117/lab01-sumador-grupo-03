@@ -3,7 +3,7 @@ laboratorio 01 introducción a HDL
 
 En esta plantilla debe adicionar la documentación del laboratorio
 
-* Person 3
+* Juan Sebastian Gil Roa
 * Nikolai Alexander Caceres Penagos
 * Esteban Ladino Fajardo
 
